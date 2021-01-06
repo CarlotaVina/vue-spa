@@ -15,7 +15,7 @@
   "author": "Carlota Viña",
   "license": "Carlota Viña",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bulma": "^0.5.1",
     "express": "^4.17.1",
     "phantomjs": "^2.1.7",
